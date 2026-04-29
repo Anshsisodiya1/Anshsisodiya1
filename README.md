@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Student (5th Semester)
+- 🎓 BCA Student (6th Semester)
 - 💻 MERN Stack Developer  
 - 🔥 Working on *Transport Management System & Hostelite Project*
 - 📚 Learning Backend, System Design & DSA
